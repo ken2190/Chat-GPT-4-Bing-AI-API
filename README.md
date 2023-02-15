@@ -14,6 +14,6 @@ Very cheap compared to OpenAI (max 0.03 $ per request compared to 0.08 of OpenAI
 # Requirements
 You need a microsoft account whitelisted to access the Bing AI Chat feature in order to use this API
 
-# How to access
-Currently the API is deployed through RapidAPI, please check the RapidAPI API listing for instructions about this API usage:
-https://rapidapi.com/nealab/api/chatgpt-4-bing-ai-chat-api/details
+# How to access the API
+Currently the API is deployed through RapidAPI, to access the API please check the RapidAPI API listing:
+https://rapidapi.com/nealab/api/chatgpt-4-bing-ai-chat-api/
